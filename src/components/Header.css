@@ -1,0 +1,46 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;0,200;1,100;1,200&family=Montserrat:ital,wght@1,100;1,400&family=Unbounded:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;0,200;1,100;1,200&family=Montserrat:ital,wght@1,100;1,400&family=Poppins&family=Unbounded:wght@200&display=swap'); */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+code {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+.dresslogo{
+    height: 80px;
+    
+}
+.navbar{
+     background-color: #ff9100;
+     color: rgba(255, 255, 255, 0.918);
+     font-weight: 600;
+     font-size: 22px ;
+     
+     
+
+}
+.head5{
+    margin-right: 40px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.header-text{
+    color: rgba(255, 255, 255, 0.918);
+}

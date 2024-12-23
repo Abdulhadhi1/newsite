@@ -1,0 +1,97 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;0,200;1,100;1,200&family=Montserrat:ital,wght@1,100;1,400&family=Unbounded:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;0,200;1,100;1,200&family=Montserrat:ital,wght@1,100;1,400&family=Poppins&family=Unbounded:wght@200&display=swap'); */
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+body {
+
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header-text {
+  color: #606080;
+  font-weight: 500;
+  margin-top: 17px;
+  font-size: 17px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.tag-card {
+  margin: 10px 0 0 20px;
+  color: #806a78;
+}
+
+.tourName {
+  color: "#F48FB1";
+  font-size: 18px;
+  margin: 0 0 0 4px;
+  font-weight: 500;
+}
+
+.tagErrMsg {
+  color: #f93154;
+  margin-top: 5px;
+  text-align: left;
+  font-size: 14px;
+}
+
+h4 {
+  overflow: hidden;
+  text-align: center;
+}
+
+h4:before,
+h4:after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+h4:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+h4:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+.he5{
+  color: #000;
+}
+.headtag{
+  color: rgb(0, 0, 0);
+}
